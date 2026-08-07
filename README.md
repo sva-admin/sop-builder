@@ -1,3 +1,5 @@
+<p align="center"><a href="https://loop.sv-academy.org"><img src="https://loop.sv-academy.org/apple-icon.png" width="88" alt="Silicon Valley Academy"/></a></p>
+
 # sop-builder
 
 Turn something you just finished into a documented, repeatable procedure, then decide whether it belongs as an SOP, a skill, or a scheduled routine.
