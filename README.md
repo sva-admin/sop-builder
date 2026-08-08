@@ -35,6 +35,10 @@ It triggers on "sop", "document this process", "make this repeatable", "how do I
 
 Learn free at https://loop.sv-academy.org/tutorials
 
+## License
+
+MIT. See [LICENSE](LICENSE).
+
 ---
 
 More skills: https://github.com/sva-admin/claude-skills
